@@ -1,6 +1,7 @@
 # About Me
 
-**Name:** Axel Nguyen 
+**Name:** Axel Nguyen
+<br>
 **Major:** Computer Science  
 
 ## About This Repository
